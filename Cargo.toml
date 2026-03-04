@@ -1,0 +1,10 @@
+[package]
+name = "cann"
+version = "0.0.0"
+edition = "2024"
+authors = ["Leon <leon@leonrust.com>"]
+description = "Rust binding of CANN"
+license = "MIT"
+repository = "https://github.com/cann-rs/cann"
+
+[dependencies]
